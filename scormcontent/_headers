@@ -1,0 +1,4 @@
+/*
+  X-Frame-Options: ALLOW-FROM *
+  Access-Control-Allow-Origin: *
+  Content-Security-Policy: frame-ancestors 'self' https://attachment-nerd.mykajabi.com
